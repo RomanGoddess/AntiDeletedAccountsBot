@@ -1,10 +1,10 @@
-"""This is a bot for kicking deleted accounts from groups.
-I will check for deleted accounts in active groups once an hour, but only if the group is active.
-It requires the `ban user` permission in groups, and any permission in channels.
+"""Hello 👋, Welcome To 𝗔𝗡𝗧𝗜𝗗𝗘𝗟𝗘𝗧𝗘𝗗 𝗔𝗖𝗖𝗢𝗨𝗡𝗧𝗦 𝗥𝗢𝗕𝗢𝗧 🚫.\n\nThis Is A Bot For 𝗞𝗜𝗖𝗞𝗜𝗡𝗚 𝗗𝗘𝗟𝗘𝗧𝗘𝗗 𝗔𝗖𝗖𝗢𝗨𝗡𝗧𝗦 From Groups.\n\nI Will Check For Deleted Accounts In Active Groups Once An Hour, But Only If The Group Is Active. It Requires The 𝗕𝗔𝗡 𝗨𝗦𝗘𝗥 Permission In Groups & Any Permissions In Channels.
 
-[Bot support](https://github.com/Qwerty-Space/AntiDeletedAccountsBot/issues)
-[Announcements & Updates](https://t.me/joinchat/AAAAAFFqkyB7YPH6RtPbgw)
-See /help for more info.
+[𝗥𝗘𝗣𝗢𝗥𝗧 𝗕𝗢𝗧 𝗜𝗦𝗦𝗨𝗘𝗦 𝗛𝗘𝗥𝗘 ⚠](https://t.me/Iggie)
+
+[𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗔𝗡𝗗𝗥𝗢𝗜𝗗 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 📱](https://t.me/joinchat/AAAAAE-44AkxSyqIMj1tdQ)
+
+See /help For More Info.
 """
 
 from asyncio import sleep
